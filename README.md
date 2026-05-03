@@ -64,14 +64,7 @@ Stores hash values of files.
 Step 2: Start Monitoring
 
 Detects changes in real-time.
-
-
-## 🚀 Installation
-```bash
-git clone https://github.com/prajavkrish/fim-tool.git
-cd fim-tool
-pip install -r requirements.txt
-
+---
 ## 📸 Screenshots
 
 ### 🔹 Baseline Creation
@@ -85,3 +78,10 @@ pip install -r requirements.txt
 
 ### 🔹 Modification Started
 ![Monitoring](screenshots/modification.png)
+
+
+## 🚀 Installation
+```bash
+git clone https://github.com/prajavkrish/fim-tool.git
+cd fim-tool
+pip install -r requirements.txt
