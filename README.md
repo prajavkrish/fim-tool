@@ -72,3 +72,16 @@ git clone https://github.com/prajavkrish/fim-tool.git
 cd fim-tool
 pip install -r requirements.txt
 
+## 📸 Screenshots
+
+### 🔹 Baseline Creation
+![Baseline](screenshots/baseline.jpg)
+
+### 🔹 Monitoring Started
+![Monitoring](screenshots/'insert of file'.png)
+
+### 🔹 File Change Detection
+![Detection](screenshots/deletion.png)
+
+### 🔹 Modification Started
+![Monitoring](screenshots/modification.png)
