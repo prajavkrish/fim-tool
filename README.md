@@ -1,3 +1,21 @@
+```text
+                                                         .-'''-.        .-'''-.          
+                                                        '   _    \     '   _    \  .---. 
+          .--. __  __   ___                           /   /` '.   \  /   /` '.   \ |   | 
+     _.._ |__||  |/  `.'   `.                        .   |     \  ' .   |     \  ' |   | 
+   .' .._|.--.|   .-.  .-.   '                    .| |   '      |  '|   '      |  '|   | 
+   | '    |  ||  |  |  |  |  | ,.----------.    .' |_\    \     / / \    \     / / |   | 
+ __| |__  |  ||  |  |  |  |  |//            \ .'     |`.   ` ..' /   `.   ` ..' /  |   | 
+|__   __| |  ||  |  |  |  |  |\\            /'--.  .-'   '-...-'`       '-...-'`   |   | 
+   | |    |  ||  |  |  |  |  | `'----------'    |  |                               |   | 
+   | |    |__||__|  |__|  |__|                  |  |                               |   | 
+   | |                                          |  '.'                             '---' 
+   | |                                          |   /                                    
+   |_|                                          `'-'                                     
+```                                                                       
+
+
+
 # 🛡️ File Integrity Monitor (FIM) – DFIR Tool
 
 ## 📌 Overview
@@ -33,16 +51,17 @@ This tool helps detect:
   - Deleted files
 - 🧩 Cross-platform (Linux & Windows)
 
----
 ## 🏗️ Project Structure
+
+```bash
 fim-tool/
 │── fim.py
 │── baseline.json
 │── logs.txt
 │── requirements.txt
 │── README.md
-│── .gitignore
----
+└── .gitignore
+```
 ## 🛠️ Technologies Used
 - Python
 - watchdog (file monitoring)
